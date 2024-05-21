@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt # import portion of library we want to use
 
 # data
-months = ['May', 'June', 'July', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec', 'Jan', 'Feb', 'March', 'April']
+months = ['Jan', 'Feb', 'March', 'April', 'May', 'June', 'July', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec']
 total_rainfall = [<your total monthly rainfall goes here>] # comma separated list of decimal values
 average_temp = [<your average monthly temperature in degrees F goes here>] # comman separated list of decimal values
 
